@@ -2,7 +2,7 @@
 
 Last main ArcaneOS update
 
-|
+
 
         Paint App
     Color stuff!!
@@ -10,4 +10,4 @@ Last main ArcaneOS update
         Notes App
     Write a note! 
 
-|
+
