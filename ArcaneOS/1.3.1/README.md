@@ -2,7 +2,7 @@
 
 # The 1.3.1 Update 
 
-AUF not normal
+Code is AUF based on 1.3.1 not base arcaneOS
 
 
 
