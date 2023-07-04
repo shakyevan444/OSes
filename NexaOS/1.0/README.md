@@ -1,6 +1,6 @@
 # NexaOS #
 
-# The 1.0 update for NexaOS
+# The 1.0 update 
 
 
 
